@@ -1,0 +1,9 @@
+server:
+  port: 9090
+  servlet:
+    context-path: /
+
+#数据源
+spring:
+  profiles:
+    active: prod
