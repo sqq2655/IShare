@@ -13,11 +13,6 @@ import org.springframework.web.servlet.ModelAndView;
 import java.util.List;
 import java.util.Map;
 
-/**
- * @author sqq
- * @version 1.0
- * @date 2020/4/17 15:39
- */
 @Controller
 public class IndexController {
 

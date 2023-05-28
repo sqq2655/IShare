@@ -1,10 +1,6 @@
 package com.sqqone.code.config;
 
-/**
- * @author sqq
- * @version 1.0
- * @date 2020/6/10 15:48
- */
+
 
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
